@@ -4,7 +4,7 @@
 
 This project implements a comprehensive database design for a **Vehicle Rental System** that manages users, vehicles, and bookings. The database is designed to handle real-world scenarios including customer registrations, vehicle inventory management, and rental booking operations.
 
-## 🎯 Assignment Objectives
+## 🎯 Objectives
 
 This assignment demonstrates proficiency in:
 - Designing Entity Relationship Diagrams (ERD) with various relationship types
